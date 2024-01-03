@@ -1,4 +1,5 @@
-# Blockchain-based-Evault-
+# Blockchain-based-Evault-for-legal-records
+
 Blockchain based Evault for legal records 
 The eVault system, designed for secure legal records management, ensures robust user authentication and efficient document handling. Using Aadhaar or Pan card credentials with two-factor authentication, authorized users access the React-developed dashboard. This user-friendly interface enables comprehensive document overview, search, and filtering, allowing secure sharing and version tracking. MetaMask integration improves Ethereum-based decentralized application interaction, facilitating cryptocurrency transactions within the system. Blockchain ensures decentralized identity management, transparency in document verification, and secure encryption protocols. The system supports smart legal contracts, categorized by the Law Commission. This transformative approach addresses the shortcomings of traditional centralized systems, providing a secure, streamlined, and integrated solution for legal records in our digital society. 
 
@@ -41,3 +42,4 @@ The downloaded documents are protected by encryption protocols in the e-vault sy
 2. Hasan, R., Winslett, M., Sion, R. (2007). Requirements of Secure Storage Systems for Healthcare Records. In: Jonker, W., Petković, M. (eds) Secure Data Management. SDM 2007. Lecture Notes in Computer Science, vol 4721. Springer, Berlin, Heidelberg. 
 3. Li, H. and Han, D., 2019. EduRSS: A blockchain-based educational records secure storage and sharing scheme. IEEE access, 7, pp.179273-179289.
 Verma, A., Bhattacharya, P., Saraswat, D. and Tanwar, S., 2021. NyaYa: Blockchain-based electronic law record management scheme for judicial investigations. Journal of Information Security and Applications, 63, p.103025.
+[screenshots project honors.pdf](https://github.com/shubh3112003/Blockchain-based-Evault-/files/13818749/screenshots.project.honors.pdf)
